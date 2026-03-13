@@ -4,13 +4,13 @@ export default function PrivacyPage() {
       <h1>Privacy Policy</h1>
       <p><strong>Effective date:</strong> 9 March 2026</p>
       <p>
-        This Privacy Policy explains how the Romulus Legal Hub app ("Romulus Legal Hub") collects, uses, shares, and
+        This Privacy Policy explains how the Romulus app ("Romulus") collects, uses, shares, and
         protects personal information when you use our services.
       </p>
 
       <h2>1. Information We Collect</h2>
       <p>
-        When you use Romulus Legal Hub, we collect contact details, support request content, campaign context
+        When you use Romulus, we collect contact details, support request content, campaign context
         submitted by users, and technical usage logs needed to operate and secure the service.
       </p>
 
@@ -35,22 +35,22 @@ export default function PrivacyPage() {
       <h2>5. Your Rights</h2>
       <p>
         Subject to applicable law, you may request access, correction, deletion, or restriction of
-        personal data by contacting privacy@romuluslegalhub.com.
+        personal data by contacting privacy@romulus.com.
       </p>
 
       <h2>6. Contact</h2>
-      <p>Privacy questions: privacy@romuluslegalhub.com</p>
+      <p>Privacy questions: privacy@romulus.com</p>
 
       <section className="section">
         <h2>Need policy-safe TikTok publishing operations?</h2>
         <p>
-          Romulus Legal Hub documents moderation, disclosure, and compliance controls so teams can publish with
+          Romulus documents moderation, disclosure, and compliance controls so teams can publish with
           transparency.
         </p>
       </section>
 
       <footer className="footer">
-        <p>© 2026 Romulus Legal Hub. All rights reserved.</p>
+        <p>© 2026 Romulus. All rights reserved.</p>
       </footer>
     </main>
   );
